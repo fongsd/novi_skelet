@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../glad/include/KHR/khrplatform.h
+stdint.h
+-
+inttypes.h
+-
+stdint.h
+-
+
+../glad/include/glad/glad.h
+KHR/khrplatform.h
+-
+
+../glad/include/rg/Error.h
+iostream
+-
+glad/glad.h
+-
+
+../glad/include/rg/Shader.h
+fstream
+-
+sstream
+-
+rg/Error.h
+../glad/include/rg/rg/Error.h
+
+/home/dusan/CLionProjects/skelet/main.cpp
+iostream
+-
+glad/glad.h
+-
+GLFW/glfw3.h
+-
+rg/Shader.h
+-
+cmath
+-
+

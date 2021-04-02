@@ -1,0 +1,6 @@
+/home/dusan/CLionProjects/skelet/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/dusan/CLionProjects/skelet/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/dusan/CLionProjects/skelet/cmake-build-debug/CMakeFiles/skelet.dir
+/home/dusan/CLionProjects/skelet/cmake-build-debug/glad/CMakeFiles/edit_cache.dir
+/home/dusan/CLionProjects/skelet/cmake-build-debug/glad/CMakeFiles/rebuild_cache.dir
+/home/dusan/CLionProjects/skelet/cmake-build-debug/glad/CMakeFiles/glad.dir
